@@ -1,5 +1,5 @@
 import React from 'react'
-import { createBrowserRouter,RouterProvider } from 'react-router-dom'
+import { createHashRouter,RouterProvider } from 'react-router-dom'
 
 // 引入 toast 視窗
 import { ToastContainer } from 'react-toastify'
@@ -23,7 +23,7 @@ import './App.css'
 
 // --- 底下開始撰寫 ---
 
-const router = createBrowserRouter([
+const router = createHashRouter([
     {
         path: "/", // 代表一進入主畫面時，會導向的路徑
         element: <Main/>, // 版面組件：用來設置 header 和 footer
