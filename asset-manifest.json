@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/github.io/expense-tracker/static/css/main.09897992.css",
-    "main.js": "/github.io/expense-tracker/static/js/main.11024443.js",
-    "static/media/illustration.jpg": "/github.io/expense-tracker/static/media/illustration.4a40d1d23fa4a5871dab.jpg",
-    "static/media/wave.svg": "/github.io/expense-tracker/static/media/wave.22608da519a91f45efa17221afb73759.svg",
-    "index.html": "/github.io/expense-tracker/index.html",
-    "static/media/logomark.svg": "/github.io/expense-tracker/static/media/logomark.87c3beb3809987a5116033bfdb9728e0.svg",
-    "main.09897992.css.map": "/github.io/expense-tracker/static/css/main.09897992.css.map",
-    "main.11024443.js.map": "/github.io/expense-tracker/static/js/main.11024443.js.map"
+    "main.css": "/expense-tracker/static/css/main.09897992.css",
+    "main.js": "/expense-tracker/static/js/main.f4700dbd.js",
+    "static/media/illustration.jpg": "/expense-tracker/static/media/illustration.4a40d1d23fa4a5871dab.jpg",
+    "static/media/wave.svg": "/expense-tracker/static/media/wave.22608da519a91f45efa17221afb73759.svg",
+    "index.html": "/expense-tracker/index.html",
+    "static/media/logomark.svg": "/expense-tracker/static/media/logomark.87c3beb3809987a5116033bfdb9728e0.svg",
+    "main.09897992.css.map": "/expense-tracker/static/css/main.09897992.css.map",
+    "main.f4700dbd.js.map": "/expense-tracker/static/js/main.f4700dbd.js.map"
   },
   "entrypoints": [
     "static/css/main.09897992.css",
-    "static/js/main.11024443.js"
+    "static/js/main.f4700dbd.js"
   ]
 }
