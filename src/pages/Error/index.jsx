@@ -10,7 +10,7 @@ export default function Error() {
   return (
     <div className='error'>
       <h1>Oops...你可能迷路了</h1>
-      <p>{error.message}</p>
+      <p>{error && error.message ? error.message : '未知錯誤'}</p>
       <div className='flex-md'>
         <button className="btn btn--dark" onClick={()=>navigate(-1)}>
           <span>回上一頁</span>
